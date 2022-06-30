@@ -1,0 +1,23 @@
+{
+  "name": "codicons-whitespace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hawkticehurst/codicons-whitespace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawkticehurst/codicons-whitespace/issues"
+  },
+  "homepage": "https://github.com/hawkticehurst/codicons-whitespace#readme",
+  "dependencies": {
+    "@vscode/codicons": "^0.0.31"
+  }
+}

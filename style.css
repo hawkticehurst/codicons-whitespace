@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  background-color: #1e1e1e;
+}
+
+.status-bar {
+  background-color: #2e2e2e;
+  padding: 0.5rem 1rem;
+}
+
+.status-bar span {
+  color: white;
+}
+
+#status-bar-1 a {
+  cursor: pointer;
+	display: inline-block;
+	display: flex;
+	height: 100%;
+	padding: 0 5px 0 5px;
+	white-space: pre; /* gives some degree of styling */
+	align-items: center;
+}
+
+#status-bar-2 a {
+  cursor: pointer;
+	display: inline-block;
+	display: flex;
+	height: 100%;
+	padding: 0 5px 0 5px;
+	white-space: pre; /* gives some degree of styling */
+	align-items: center;
+}
+
+#status-bar-2 a > span {
+  display: inline-block;
+  margin-right: 10px;
+}
